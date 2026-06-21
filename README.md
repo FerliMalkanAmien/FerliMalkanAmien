@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferlimalkanamien" alt="ferlimalkanamien" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Inttelligence, Computer Vision, Deep Learning, Intelligent Computing, etc**
+- 🌱 I’m currently learning **Artificial Intelligence, Computer Vision, Deep Learning, Intelligent Computing, etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
